@@ -2,4 +2,4 @@
 
 Modules used - sys, colorama 
 
-Program to print Fibonacci Sequence up to 144 using recursion
+Program to print Fibonacci Sequence up to the number 144 using recursion
